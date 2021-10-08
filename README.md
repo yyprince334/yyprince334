@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   ![](https://visitor-badge.glitch.me/badge?page_id=yyprince334.yyprince334)
+# Hey there, I'm Prince <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   ![](https://visitor-badge.glitch.me/badge?page_id=yyprince334.yyprince334)
 <br />
 
 <a href="https://www.linkedin.com/in/princeyadav7986/">
@@ -6,16 +6,16 @@
 </a>
 <br/>
 <br />
-Hi, I'm <strong>Prince Yadav</strong>, a passionate self-taught Android developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<strong>### A Passionate Android Engineer & UI/UX Designer</strong> 🚀 <br/>
+I am an Android engineer and designer passionate about software development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [My Email](mailto:yyprince334@gmail.com)
-- 📝 [Resume]()
+* 📫 How to reach me: [My Email](mailto:yyprince334@gmail.com)
+* 💬 Ask me about ``Android``, ``UI/UX Design`` & ``Freelancing Enquiries`` 
+* 📝 Open Source Contributor
+* 💌 Available for your next project
 
 
 <br />
@@ -59,6 +59,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 <br>
 <a href="https://github.com/yyprince334/github-readme-activity-graph"><img alt="Prince's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yyprince334&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false" /></a>
+  
+  ## Projects made with ❤️ 👇
 
 
 
