@@ -6,8 +6,8 @@
 </a>
 <br/>
 <br />
-<strong>### A Passionate Android Engineer & UI/UX Designer</strong> 🚀 <br/>
-I am an Android engineer and designer passionate about software development, user experience, and bringing meaning to the world of Android through innovative designs and user friendly apps. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
+<strong>### A Passionate Software Engineer & UI/UX Designer</strong> 🚀 <br/>
+I am an Software engineer and designer passionate about software development, user experience, and bringing meaning to the world of Software through innovative designs and user friendly websites and applications. I also enjoy improving my skills by learning new skills and applying them to new projects. Most of all, I strive to bring transparency, accountability, and happiness into my work by developing an internally driven approach that results in highest quality products.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -27,22 +27,19 @@ I am an Android engineer and designer passionate about software development, use
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
   <img height="30" src="https://img.icons8.com/color/48/000000/android-studio--v2.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png">
-<img height="30" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png"></code>
-
+  <img height="30" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png">
+  <img height="30" src="https://cdn.iconscout.com/icon/free/png-64/visual-studio-code-3251603-2724650.png"></code>
 
 <br />
-
 
 📈 My GitHub Stats
 
@@ -51,8 +48,6 @@ I am an Android engineer and designer passionate about software development, use
 
   
   
-
-
   
 <br>
 <br>
